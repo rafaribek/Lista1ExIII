@@ -1,0 +1,7 @@
+C:\Users\Intel Gamer\Documents\C#\Lista1ExIII\Lista1ExIII\bin\Debug\Lista1ExIII.exe.config
+C:\Users\Intel Gamer\Documents\C#\Lista1ExIII\Lista1ExIII\bin\Debug\Lista1ExIII.exe
+C:\Users\Intel Gamer\Documents\C#\Lista1ExIII\Lista1ExIII\bin\Debug\Lista1ExIII.pdb
+C:\Users\Intel Gamer\Documents\C#\Lista1ExIII\Lista1ExIII\obj\Debug\Lista1ExIII.csproj.AssemblyReference.cache
+C:\Users\Intel Gamer\Documents\C#\Lista1ExIII\Lista1ExIII\obj\Debug\Lista1ExIII.csproj.CoreCompileInputs.cache
+C:\Users\Intel Gamer\Documents\C#\Lista1ExIII\Lista1ExIII\obj\Debug\Lista1ExIII.exe
+C:\Users\Intel Gamer\Documents\C#\Lista1ExIII\Lista1ExIII\obj\Debug\Lista1ExIII.pdb
